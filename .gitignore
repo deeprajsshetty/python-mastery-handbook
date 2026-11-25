@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# macOS / IDE
+.DS_Store
+.idea/
+
+# Course resource downloads (App Brewery copyright) — kept locally only
+0003-download-resource-tips/
